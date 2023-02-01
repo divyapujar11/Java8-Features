@@ -1,0 +1,14 @@
+package java8.features.predicates;
+
+import java.util.function.Predicate;
+
+public class LengthOfString {
+
+	public static void main(String[] args) {
+		Predicate<String> s = s -> (s.length()>5);
+		System.out.println(s.test("xyz"));
+		System.out.println(s.test("bharath"));
+		System.out.println(s.test(""));
+	}
+
+}

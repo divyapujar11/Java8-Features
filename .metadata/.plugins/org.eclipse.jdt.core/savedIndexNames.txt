@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\dcpujar\Documents\revision-folder\Core-Java\Java8-pract-udemy\.metadata\.plugins\org.eclipse.jdt.core
+2013720652.index
+1865797976.index
+3556878638.index

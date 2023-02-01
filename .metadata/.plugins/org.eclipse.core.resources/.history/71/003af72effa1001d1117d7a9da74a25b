@@ -1,0 +1,5 @@
+package java8.features.lamda.interfaces;
+
+public class Test {
+
+}

@@ -1,0 +1,5 @@
+package java8.features.lamda.basics;
+
+public interface B extends A {
+
+}

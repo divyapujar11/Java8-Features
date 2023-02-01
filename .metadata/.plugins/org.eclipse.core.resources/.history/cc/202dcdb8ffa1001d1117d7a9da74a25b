@@ -1,0 +1,7 @@
+package java8.features.lamda.parameter;
+
+public class Test {
+	public static void main(String[] args) {
+
+	}
+}

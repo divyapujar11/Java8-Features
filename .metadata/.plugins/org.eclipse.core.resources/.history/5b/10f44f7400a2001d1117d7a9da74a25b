@@ -1,0 +1,5 @@
+package java8.features.lamda.defaultmethods;
+
+public class B implements A, X {
+
+}

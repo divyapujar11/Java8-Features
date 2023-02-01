@@ -1,0 +1,11 @@
+package java8.features.lamda.interfaces;
+
+public class MyRunnableImpl implements Runnable {
+
+	@Override
+	public void run() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

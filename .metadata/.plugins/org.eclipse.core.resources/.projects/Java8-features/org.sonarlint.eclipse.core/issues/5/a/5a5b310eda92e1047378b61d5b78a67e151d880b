@@ -1,0 +1,18 @@
+
+o	java:S106"9Replace this use of System.out or System.err by a logger.(╛╗ёг¤    8·╣Птр0HIRMAJORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(д░лЪ8·╣Птр0HGRMAJORZ
+CODE_SMELL
+Д	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ш╓╒ЪHERMINORZ
+CODE_SMELL
+Й
+java:S4276"RRefactor this code to use the more specialised Functional Interface 'IntPredicate'(┘У╥╣№    8·╣Птр0HHRMINORZ
+CODE_SMELL
+o	java:S106"9Replace this use of System.out or System.err by a logger.(√лгз·    8ог┼тр0HJRMAJORZ
+CODE_SMELL
+o	java:S106"9Replace this use of System.out or System.err by a logger.(хЖГс∙    8ог┼тр0HKRMAJORZ
+CODE_SMELL
+o	java:S106"9Replace this use of System.out or System.err by a logger.(░ош╚·    8ог┼тр0HLRMAJORZ
+CODE_SMELL
+j	java:S106 "9Replace this use of System.out or System.err by a logger.(╘╗ь√8ог┼тр0HMRMAJORZ
+CODE_SMELL

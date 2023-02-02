@@ -1,0 +1,14 @@
+
+Д	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(▓їУўHORMINORZ
+CODE_SMELL
+Т
+java:S4276"[Refactor this code to use the more specialised Functional Interface 'ToIntFunction<String>'(ш╩╨о     8ї├мур0HQRMINORZ
+CODE_SMELL
+r
+java:S1612";Replace this lambda with method reference 'String::length'.(ш╩╨о     8ї├мур0HRRMINORZ
+CODE_SMELL
+j	java:S106	"9Replace this use of System.out or System.err by a logger.(ГРй╢8ї├мур0HTRMAJORZ
+CODE_SMELL
+o	java:S106
+"9Replace this use of System.out or System.err by a logger.(д╖ЪБ∙    8ї├мур0HURMAJORZ
+CODE_SMELL

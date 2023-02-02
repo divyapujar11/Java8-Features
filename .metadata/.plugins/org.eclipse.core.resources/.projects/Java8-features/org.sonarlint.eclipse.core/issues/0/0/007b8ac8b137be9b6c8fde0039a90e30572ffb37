@@ -1,0 +1,6 @@
+
+p
+java:S1612"9Replace this lambda with method reference 'MyClass::new'.(Áõ¬ûÿÿÿÿ8İÃÈåà0H{RMINORZ
+CODE_SMELL
+‰	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(âÄ£şÿÿÿÿHyRMINORZ
+CODE_SMELL

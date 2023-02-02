@@ -1,0 +1,11 @@
+
+Д
+java:S4276"RRefactor this code to use the more specialised Functional Interface 'IntPredicate'(¬Ќ„ћ8Я≤»ба0H5RMINORZ
+CODE_SMELL
+Й	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ќе«ыш€€€€H1RMINORZ
+CODE_SMELL
+j	java:S106	"9Replace this use of System.out or System.err by a logger.(Ицвш8ҐЮ ба0H8RMAJORZ
+CODE_SMELL
+j	java:S106
+"9Replace this use of System.out or System.err by a logger.(ч”Д‘8ҐЮ ба0H9RMAJORZ
+CODE_SMELL

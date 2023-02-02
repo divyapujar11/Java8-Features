@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.FunctionalInterface"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="java.util.function.Predicate"/>
+    <fullyQualifiedTypeName name="java.util.function.Function"/>
+    <fullyQualifiedTypeName name="java.lang.Runnable"/>
+    <fullyQualifiedTypeName name="java8.features.methodref.MethodRefDemo"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="java8.features.methodref.MyClass2"/>
+    <fullyQualifiedTypeName name="java8.features.methodref.MyInterface"/>
+    <fullyQualifiedTypeName name="java8.features.methodref.contructor.MyInterface"/>
+    <fullyQualifiedTypeName name="java8.features.methodref.contructor.MyClass"/>
+</qualifiedTypeNameHistroy>
